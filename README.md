@@ -1,5 +1,4 @@
-# SDMS_v0.1
-School DataBase Management System;
+# Python_SQL_DBMS_v0.1
+Python + mySQL DataBase Management System;
 
-Automated School Database Management Program based on Python and SQL,
-Go through Scrpit.py for more insights.
+Script on School Database Management Program based on Python and SQL,
